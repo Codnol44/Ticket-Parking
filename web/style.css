@@ -1,0 +1,87 @@
+html {
+    background: blueviolet;
+    font-family: Cambria;
+    font-size: large;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+}
+
+h1 {
+    background: lightslategray;
+    color : orange;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.affic {
+    background: blueviolet;
+    border-radius: 10px;
+}
+
+div.fond {
+    background-color: lavender;
+}
+
+button.btn {
+    font-family: Cambria;
+    display: inline-block;
+    background: blueviolet;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 150px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button.btn2 {
+    font-family: Cambria;
+    display: inline-block;
+    background: blueviolet;
+    border-radius: 20px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+    width: 200px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+div#res{
+    background-color: cadetblue;
+    color: indigo;
+    font-family: Cambria;
+    font-size: x-large;
+}
+
+#foot {
+    background: blueviolet;
+    font-size: small;
+}
+
+header {
+    background: blueviolet;
+}
+
+p#res  {
+    border-radius: 10px;
+    background-color: lavender;
+    text-align: center;
+    font-family: Cambria;
+    font-size: x-large;
+}
+
